@@ -1,2 +1,2 @@
 # cparse
-A parser generator using rust macros.
+A set of utilities for writing parsers in rust.
